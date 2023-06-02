@@ -1,3 +1,6 @@
 [submodule "monitor/monitor"]
 	path = monitor/monitor
 	url = https://github.com/montohang/monitor.git
+[submodule "logger/logger"]
+	path = logger/logger
+	url = https://github.com/montohang/logger.git
