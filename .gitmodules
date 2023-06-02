@@ -4,3 +4,6 @@
 [submodule "logger/logger"]
 	path = logger/logger
 	url = https://github.com/montohang/logger.git
+[submodule "shared/shared"]
+	path = shared/shared
+	url = https://github.com/montohang/shared.git
